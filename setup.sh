@@ -4,4 +4,6 @@ npx create-next-app@latest tabtab --typescript --tailwind --eslint --app --src-d
 cd tabtab
 npm install @supabase/supabase-js @supabase/ssr
 echo "=== تمام شد! ==="
+cd Tabtab-
+git pull
 
